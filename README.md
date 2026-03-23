@@ -1,7 +1,5 @@
 # Enterprise-Infrastructure-Homelab
-Enterprise infrastructure lab using VMware ESXi, Active Directory, pfSense firewall, Zabbix monitoring, and Veeam backup.
-# Enterprise Infrastructure Homelab
-
+Enterprise infrastructure lab using VMware ESXi, Active Directory, pfSense firewall, Zabbix monitoring, and Veeam backup
 ## 📌 Overview
 This project simulates a full enterprise IT infrastructure environment including virtualization, identity management, network security, monitoring, and backup solutions.
 
